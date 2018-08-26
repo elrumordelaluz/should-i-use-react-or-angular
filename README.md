@@ -1,4 +1,4 @@
-# should-i-use-react-or-vue
+# should-i-use-react-or-angular
 
 [Should I use React or Angular?](https://should-i-use-react-or-angular.now.sh/) is a fork of [Should I use React or Vue?](https://should-i-use-react-or-vue.now.sh/) made for [this tweet](https://twitter.com/BenLesh/status/1033464844752547840)
 
