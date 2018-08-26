@@ -17,7 +17,7 @@ const Home = (props: Props) => (
     <Fragment>
       <Title>
         Should I use <span className={style.blue}>React</span> or{" "}
-        <span className={style.yellow}>Vue</span>?
+        <span className={style.yellow}>Angular</span>?
       </Title>
       <Title>Play to find out</Title>
       <Button onClick={() => props.history.push("/app")}>Start</Button>

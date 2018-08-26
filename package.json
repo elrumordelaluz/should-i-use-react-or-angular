@@ -1,5 +1,5 @@
 {
-  "name": "should-i-use-react-or-vue",
+  "name": "should-i-use-react-or-angular",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -27,5 +27,8 @@
     "prettier": "^1.13.7",
     "razzle-plugin-stylable": "^1.1.0",
     "stylable": "^5.4.11"
+  },
+  "now": {
+    "alias": "https://should-i-use-react-or-angular.now.sh/"
   }
 }

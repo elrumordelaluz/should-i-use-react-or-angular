@@ -12,12 +12,12 @@ const Done = () => (
     <Fragment>
       <Title>
         No one cares if you use <span className={style.blue}>React</span> or{" "}
-        <span className={style.yellow}>Vue</span>.
+        <span className={style.yellow}>Angular</span>.
       </Title>
       <Title>They are both fucking awesome!</Title>
       <div>
         <Twitter
-          message="Find out if you should use react or vue"
+          message="Find out if you should use react or angular"
           link="https://should-i-use-react-or-vue.now.sh"
         />
         <a
