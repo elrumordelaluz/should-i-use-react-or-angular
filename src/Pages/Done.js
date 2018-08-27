@@ -18,12 +18,12 @@ const Done = () => (
       <div>
         <Twitter
           message="Find out if you should use react or angular"
-          link="https://should-i-use-react-or-vue.now.sh"
+          link="https://should-i-use-react-or-angular.now.sh"
         />
         <a
           rel="noopener noreferrer"
           target="_blank"
-          href="https://github.com/SaraVieira/should-i-use-react-or-vue"
+          href="https://github.com/elrumordelaluz/should-i-use-react-or-angular"
         >
           Repo
         </a>
